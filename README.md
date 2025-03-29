@@ -23,9 +23,15 @@ Revenue Metrics: Monetization insights from IAP revenue trends.
 The dashboard includes several interactive visualizations, each serving a unique purpose:
 
 1️⃣ WoW Avg DAU: Tracks daily user engagement and identifies trends.
+
 2️⃣ WoW New Users: Monitors new user growth and marketing effectiveness.
+
 3️⃣ WoW Paid Users: Compares active paid users to free users, highlighting conversion.
+
 4️⃣ WoW IAP Revenue: Displays revenue trends from in-app purchases.
+
 5️⃣ WoW IAP Purchases: Tracks total in-app purchases to understand user behavior.
+
 6️⃣ WoW Existing vs. New User Ratio: Compares retention to new user acquisition.
+
 7️⃣ WoW DAU vs. Paid Users: Shows conversion of active users into paying users, assessing revenue potential.
